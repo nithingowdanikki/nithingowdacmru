@@ -1,0 +1,6 @@
+19 jan 2018
+*creating github account
+*program excuting
+a)number adding
+b)number adding through variable
+c)converting in the program
